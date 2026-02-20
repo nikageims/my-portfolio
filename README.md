@@ -8,6 +8,7 @@
 * **Custom Loading Screen:** პროცენტული ინდიკატორით და ანიმაციით.
 * **Dark/Light Mode:** თემების გადამრთველი ზედა მარჯვენა კუთხეში.
 * **Responsive Design:** ადაპტირებულია ყველა ზომის ეკრანზე.
+* **Neon Aesthetics:** სპეციალური CSS Glow ეფექტები "Owners" სექციისთვის.
 
 ## 🛠️ ტექნოლოგიები
 * **Frontend:** React.js (Vite)
